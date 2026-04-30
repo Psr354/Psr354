@@ -17,19 +17,20 @@
 I'm currently studying at **SMKN 40 Jakarta** with a deep interest in cybersecurity. I love breaking things to understand how they work, and then fixing them.
 
 - 🌱 I'm currently learning **Binary Exploitation & Web Exploitation**
-- 🚩 I actively participate in **CTF competitions** (Pwn, Forensic(DFIR&Network), Web)
-- 💻 My daily drivers: **Kali Linux**, **Nano**, **Ghidra**, **Burp Suite**, **vs code**
+- 🚩 I actively participate in **CTF competitions** (Pwn, Web, Forensic(DFIR&Network))
+- 💻 My daily drivers: **Kali Linux**, **Zsh** 🤝 **Bash**, **Ghidra**, **Burp Suite**, **VS Code**, **pwndbg**
 - ⚡ Fun fact: I spend more time reading `man` pages than sleeping.
 
 ---
 
 ## 🛠️ Tech Stack & Tools
 
-### 🧬 Languages
+### 🧬 Languages & Shells
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /></a>
   <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
   <a href="https://en.wikipedia.org/wiki/Bash_(Unix_shell)" target="_blank"><img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" /></a>
+  <a href="https://zsh.org/" target="_blank"><img src="https://img.shields.io/badge/Zsh-F15A24?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" /></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 </p>
 
@@ -75,17 +76,20 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in cybersecur
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/username-mu" target="_blank">
+  <a href="https://www.linkedin.com/in/azzam-azhim-muntazhar-4a8679374/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/username-mu" target="_blank">
+  <a href="https://www.instagram.com/muntazhar1106/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:email@domain.com" target="_blank">
+  <a href="https://www.tiktok.com/@username-tiktok-mu" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
+  </a>
+  <a href="mailto:azzamazhimmuntazhar@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 <p align="center">
-  <sub>Built with 💻, ☕, and <code>gdb</code>.</sub>
+  <sub>Built with 💻, ☕, <code>zsh</code>, and <code>gdb</code>.</sub>
 </p>
