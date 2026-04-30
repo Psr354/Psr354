@@ -16,9 +16,9 @@
 
 I'm currently studying at **SMKN 40 Jakarta** with a deep interest in cybersecurity. I love breaking things to understand how they work, and then fixing them.
 
-- 🌱 I'm currently learning **Binary Exploitation & Reverse Engineering**
-- 🚩 I actively participate in **CTF competitions** (Pwn, Reverse, Web)
-- 💻 My daily drivers: **Kali Linux**, **Vim**, **Ghidra**, **Burp Suite**
+- 🌱 I'm currently learning **Binary Exploitation & Web Exploitation**
+- 🚩 I actively participate in **CTF competitions** (Pwn, Forensic(DFIR&Network), Web)
+- 💻 My daily drivers: **Kali Linux**, **Nano**, **Ghidra**, **Burp Suite**, **vs code**
 - ⚡ Fun fact: I spend more time reading `man` pages than sleeping.
 
 ---
