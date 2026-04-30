@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azzam Azhim Muntazhar (psr)</h1>
+<h1 align="center">Hi 👋, I'm Azzam Azhim Muntazhar (PSR354)</h1>
 <h3 align="center">Cybersecurity Enthusiast | CTF Player | Student</h3>
 
 <p align="center">
