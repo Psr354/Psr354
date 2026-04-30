@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Azzam Azhim Muntazhar (PSR354)</h1>
+<h1 align="center">Hi 👋, I'm Azzam Azhim Muntazhar (psr354)</h1>
 <h3 align="center">Cybersecurity Enthusiast | CTF Player | Student</h3>
 
 <p align="center">
@@ -6,6 +6,9 @@
 </p>
 
 <p align="center">
+  <a href="https://psr354.github.io/Portofolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-3fb950?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio Website" />
+  </a>
   <a href="https://github.com/Psr354"><img src="https://img.shields.io/github/followers/Psr354?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers"></a>
   <a href="https://github.com/Psr354"><img src="https://img.shields.io/github/stars/Psr354?label=Stars&logo=github&style=for-the-badge" alt="GitHub Stars"></a>
 </p>
@@ -55,12 +58,25 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in cybersecur
       <img src="https://img.shields.io/github/stars/Psr354/Write-Up-CTF?style=social" alt="Stars" />
     </td>
     <td width="50%">
-      <h3>💻 <a href="https://github.com/Psr354/portfolio">Portfolio Website</a></h3>
-      <p>Website portofolio pribadi menampilkan proyek sekolah dan eksperimen keamanan siber.</p>
-      <img src="https://img.shields.io/github/stars/Psr354/portfolio?style=social" alt="Stars" />
+      <h3>💻 <a href="https://psr354.github.io/Portofolio/" target="_blank">Portfolio Website(tugas)</a></h3>
+      <p>Website portofolio pribadi dengan tema cybersecurity. Menampilkan achievements, projects, dan skill saya.</p>
+      <img src="https://img.shields.io/badge/🌐_Live-Visit_Site-3fb950?style=social" alt="Live" />
     </td>
   </tr>
 </table>
+
+---
+
+## 🏆 Highlights
+
+| Prestasi | Posisi | Penyelenggara |
+|----------|--------|--------------|
+| 🥇 FGTE 0 | **Juara 1** | Cybersecurity Competition |
+| 🥈 Lomba Kompetensi Siswa | **Juara 2** | Nasional |
+| 🏅 Astro CTF | **Top 5** | Universitas Nurul Fikri |
+| 🏆 Hackena Ramadhan CTF | **Top 9** | HackerOne Indonesia |
+| 🏆 Ionic CTF | **Top 9** | Institut Teknologi Sepuluh Nopember |
+| 🎯 Waskita Manunggal Siber | **Finalis** | Waskita |
 
 ---
 
@@ -76,14 +92,14 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in cybersecur
 ## 🤝 Connect with Me
 
 <p align="center">
+  <a href="https://psr354.github.io/Portofolio/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-3fb950?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/azzam-azhim-muntazhar-4a8679374/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/muntazhar1106/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-  <a href="https://www.tiktok.com/@username-tiktok-mu" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
   </a>
   <a href="mailto:azzamazhimmuntazhar@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
