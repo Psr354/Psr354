@@ -107,5 +107,5 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in cybersecur
 </p>
 
 <p align="center">
-  <sub>Built with 💻, ☕, <code>zsh</code>, and <code>gdb</code>.</sub>
+  <sub>Built with 💻, ☕, <code>zsh</code>, and <code>endeavor</code>.</sub>
 </p>
