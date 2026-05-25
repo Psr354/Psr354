@@ -77,7 +77,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in cybersecur
 | 🏆 Hackena Ramadhan CTF | **Top 9** | HackerOne Egypt |
 | 🏆 Ionic CTF | **Top 9** | Institut Teknologi Sepuluh Nopember |
 | 🎯 Waskita Manunggal Siber | **Finalis** | Waskita |
-| 🥈 CyberWave 2.0 | **Juara 2** | Jktcoders |
+| 🥈 CyberWave 2.0 | **Juara 2** | jktcoder |
 | 🏆 CyberBreaker Season 3 | **Top 15** | Peris.ai x Team RRQ |
 
 ---
@@ -85,8 +85,13 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in cybersecur
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Psr354&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psr354&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Psr354&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Psr354&theme=github_dark" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Psr354&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Psr354&theme=github_dark" alt="Stats" />
 </p>
 
 ---
