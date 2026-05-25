@@ -77,6 +77,8 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in cybersecur
 | 🏆 Hackena Ramadhan CTF | **Top 9** | HackerOne Egypt |
 | 🏆 Ionic CTF | **Top 9** | Institut Teknologi Sepuluh Nopember |
 | 🎯 Waskita Manunggal Siber | **Finalis** | Waskita |
+| 🥈 CyberWave 2.0 | **Juara 2** | HIMATIK PNJ |
+| 🏆 CyberBreaker Season 3 | **Top 15** | Peris.ai x Team RRQ |
 
 ---
 
