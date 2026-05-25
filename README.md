@@ -72,7 +72,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in cybersecur
 | Prestasi | Posisi | Penyelenggara |
 |----------|--------|--------------|
 | 🥇 FGTE 0 | **Juara 1** | Cybersecurity Competition |
-| 🥈 Lomba Kompetensi Siswa | **Juara 2** | Nasional |
+| 🥈 Lomba Kompetensi Siswa | **Juara 2** | JT 1 |
 | 🏅 Astro CTF | **Top 5** | Universitas Nurul Fikri |
 | 🏆 Hackena Ramadhan CTF | **Top 9** | HackerOne Egypt |
 | 🏆 Ionic CTF | **Top 9** | Institut Teknologi Sepuluh Nopember |
