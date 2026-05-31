@@ -75,7 +75,7 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in cybersecur
 | 🥈 Lomba Kompetensi Siswa | **Juara 2** | JT 1 |
 | 🏅 Astro CTF | **Top 5** | Universitas Nurul Fikri |
 | 🏆 Hackena Ramadhan CTF | **Top 9** | HackerOne Egypt |
-| 🏆 Ionic CTF | **Top 9** | Institut Teknologi Sepuluh Nopember |
+| 🏆 Ionic CTF | **Top 9** | Politeknik Elektronika Negeri Surabaya |
 | 🎯 Waskita Manunggal Siber | **Finalis** | Waskita |
 | 🥈 CyberWave 2.0 | **Juara 2** | jktcoder |
 | 🏆 CyberBreaker Season 3 | **Top 15** | Peris.ai x Team RRQ |
