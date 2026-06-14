@@ -53,13 +53,49 @@ I'm currently studying at **SMKN 40 Jakarta** with a deep interest in cybersecur
 <table>
   <tr>
     <td width="50%">
-      <h3>📚 <a href="https://github.com/Psr354/Write-Up-CTF">Write-Up-CTF</a></h3>
-      <p>Kumpulan write-up CTF yang pernah saya kerjakan. Berisi analisis eksploitasi untuk kategori PWN, Reverse Engineering, dan Web.</p>
-      <img src="https://img.shields.io/github/stars/Psr354/Write-Up-CTF?style=social" alt="Stars" />
+      <h3>🛡️ <a href="https://github.com/Psr354/rangeops">rangeops</a></h3>
+      <p>Infrastructure for SIEM (Wazuh), B2R, KOTH, and LabCTF using Docker. Perfect for setting up vulnerable labs and security monitoring.</p>
+      <img src="https://img.shields.io/github/stars/Psr354/rangeops?style=social" alt="Stars" />
     </td>
     <td width="50%">
-      <h3>💻 <a href="https://psr354.github.io/Portofolio/" target="_blank">Portfolio Website(tugas)</a></h3>
-      <p>Website portofolio pribadi dengan tema cybersecurity. Menampilkan achievements, projects, dan skill saya.</p>
+      <h3>📚 <a href="https://github.com/Psr354/pustaka40">pustaka40</a></h3>
+      <p>Web-based library management system built with PHP and MySQL, implementing secure coding practices to prevent XSS & SQLi.</p>
+      <img src="https://img.shields.io/github/stars/Psr354/pustaka40?style=social" alt="Stars" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎧 <a href="https://github.com/Psr354/psr.fm">psr.fm</a></h3>
+      <p>A private Spotify-like web application built with JavaScript, featuring a clean UI and music management features.</p>
+      <img src="https://img.shields.io/github/stars/Psr354/psr.fm?style=social" alt="Stars" />
+    </td>
+    <td width="50%">
+      <h3>🌐 <a href="https://github.com/Psr354/how-do-you-feel">how-do-you-feel</a></h3>
+      <p>Interactive web app to track and express daily moods with a clean and responsive interface.</p>
+      <img src="https://img.shields.io/github/stars/Psr354/how-do-you-feel?style=social" alt="Stars" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📚 <a href="https://github.com/Psr354/Write-Up-picoCTF">CTF Write-Ups</a></h3>
+      <p>Documentation of my CTF journey. Includes solutions for picoCTF and FGTE0 focusing on PWN, RE, and Web Exploitation.</p>
+      <img src="https://img.shields.io/github/stars/Psr354/Write-Up-picoCTF?style=social" alt="Stars" />
+    </td>
+    <td width="50%">
+      <h3>📅 <a href="https://github.com/Psr354/kalender-kelas-xi-rpl">Kalender XI-RPL</a></h3>
+      <p>Interactive calendar web app for XI RPL class. Helps manage class schedules, assignments, and events centrally.</p>
+      <img src="https://img.shields.io/github/stars/Psr354/kalender-kelas-xi-rpl?style=social" alt="Stars" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🛠️ <a href="https://github.com/Psr354/projek-iseng">projek-iseng</a></h3>
+      <p>Collection of code experiments, random scripts, and small proof-of-concepts (PoC) built for learning and exploring new tech.</p>
+      <img src="https://img.shields.io/github/stars/Psr354/projek-iseng?style=social" alt="Stars" />
+    </td>
+    <td width="50%">
+      <h3>💻 <a href="https://psr354.github.io/Portofolio/" target="_blank">Portfolio Website</a></h3>
+      <p>My personal cybersecurity-themed portfolio website. Showcases achievements, projects, and skills. Deployed via GitHub Pages.</p>
       <img src="https://img.shields.io/badge/🌐_Live-Visit_Site-3fb950?style=social" alt="Live" />
     </td>
   </tr>
