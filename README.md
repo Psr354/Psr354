@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast | CTF Player | Student</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&width=435&lines=Student+at+SMKN+40+Jakarta;CTF+Player+(PWN+%7C+RE+%7C+Web);Linux+Lover+🐧;Learning+Secure+Coding" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=500&lines=Student+at+SMKN+40+Jakarta;CTF+Player;PWN+RE+Web;Linux+Lover;Learning+Secure+Coding" />
 </p>
 
 <p align="center">
