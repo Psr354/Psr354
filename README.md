@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi, I'm Azzam Azhim Muntazhar 👋
 
 ### Cybersecurity Student · CTF Player · Web Developer
@@ -42,7 +44,7 @@ I actively compete in Capture the Flag events and turn what I learn into practic
 | 🏅 **Finalist** | Waskita Manunggal Siber | 2026 |
 | 🏅 **Finalist** | Meta4sec 3.0 CTF | 2026 |
 | 🏅 **CBC Promotion Day** | Cyber Breaker Season 3 | 2026 |
-| **9th Internationally** | Hackena Ramadan CTF | 2026 |
+| 🌐 **9th Internationally** | Hackena Ramadan CTF | 2026 |
 | **5th Place** | Astro Competition 7.0 CTF | 2025 |
 | **9th Place / Finalist** | IONIC Cyber Security | 2025 |
 
@@ -50,55 +52,25 @@ I actively compete in Capture the Flag events and turn what I learn into practic
 
 ## Featured Projects
 
-### [rangeops](https://github.com/Psr354/rangeops)
-
-Docker-based infrastructure for SIEM with Wazuh, B2R, KOTH, and LabCTF environments—built for vulnerable labs and security-event monitoring.
-
-`Docker` `Wazuh` `SIEM` `CTF Infrastructure`
-
-### [CTF Write-Ups](https://github.com/Psr354/Write-Up-FGTE0)
-
-Exploitation notes and solutions from CTF challenges across cryptography, reverse engineering, binary exploitation, web security, and forensics.
-
-[FGTE 0](https://github.com/Psr354/Write-Up-FGTE0) · [picoCTF](https://github.com/Psr354/Write-Up-picoCTF)
-
-### [psr.fm](https://github.com/Psr354/psr.fm)
-
-A lightweight, self-hosted music streaming server with smart playlists, deep customization, and browser-based access to personal music collections.
-
-`Python` `Flask` `Docker` `Web Application`
-
-### [XI-RPL Calendar](https://github.com/Psr354/kalender-kelas-xi-rpl)
-
-An interactive class calendar that brings schedules, assignments, and school events into one accessible web application.
-
-`HTML` `CSS` `JavaScript` `School Project`
-
-### [how-do-you-feel](https://github.com/Psr354/how-do-you-feel)
-
-An interactive web application for exploring acupuncture points from everyday symptoms using weighted queries and an interactive body map.
-
-[Source](https://github.com/Psr354/how-do-you-feel) · [Live Demo](https://psr354.github.io/how-do-you-feel/)
-
-### [projek-iseng](https://github.com/Psr354/projek-iseng)
-
-Interactive 3D particle scenes controlled by webcam hand gestures with multiple gesture-based modes.
-
-`Python` `MediaPipe` `Pygame` `PyOpenGL` `Computer Vision`
+| Project | Description | Stack |
+|---|---|---|
+| **[rangeops](https://github.com/Psr354/rangeops)** | Docker-based infrastructure for SIEM with Wazuh, B2R, KOTH, and LabCTF environments—built for vulnerable labs and security-event monitoring. | `Docker` `Wazuh` `SIEM` `CTF Infrastructure` |
+| **[CTF Write-Ups](https://github.com/Psr354/Write-Up-FGTE0)** | Exploitation notes and solutions from CTF challenges across cryptography, reverse engineering, binary exploitation, web security, and forensics. [FGTE 0](https://github.com/Psr354/Write-Up-FGTE0) · [picoCTF](https://github.com/Psr354/Write-Up-picoCTF) | `Crypto` `RE` `PWN` `Web` `Forensics` |
+| **[psr.fm](https://github.com/Psr354/psr.fm)** | A lightweight, self-hosted music streaming server with smart playlists, deep customization, and browser-based access to personal music collections. | `Python` `Flask` `Docker` |
+| **[XI-RPL Calendar](https://github.com/Psr354/kalender-kelas-xi-rpl)** | An interactive class calendar that brings schedules, assignments, and school events into one accessible web application. | `HTML` `CSS` `JavaScript` |
+| **[how-do-you-feel](https://github.com/Psr354/how-do-you-feel)** | An interactive web application for exploring acupuncture points from everyday symptoms using weighted queries and an interactive body map. [Live Demo](https://psr354.github.io/how-do-you-feel/) | `HTML` `CSS` `JavaScript` |
+| **[projek-iseng](https://github.com/Psr354/projek-iseng)** | Interactive 3D particle scenes controlled by webcam hand gestures with multiple gesture-based modes. | `Python` `MediaPipe` `Pygame` `PyOpenGL` |
 
 ## Languages & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=c,python,php,js,html,css,bash,linux,docker,mysql,git,github,vscode" alt="Languages and development tools">
-</p>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=c,python,php,js,html,css,bash,linux,docker,mysql,git,github,vscode" alt="C, Python, PHP, JavaScript, HTML, CSS, Bash, Linux, Docker, MySQL, Git, GitHub, and VS Code" width="720">
+
+**Security toolkit**
 
 `Ghidra` · `Burp Suite` · `Wireshark` · `Nmap` · `Nuclei` · `Metasploit` · `SQLMap` · `pwntools` · `pwndbg` · `Wazuh`
 
-## GitHub Activity
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Psr354&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Psr354&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages">
 </div>
 
 ---
