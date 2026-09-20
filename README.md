@@ -1,9 +1,3 @@
-<div align="center">
-
-<a href="https://psr354.github.io/Portofolio/">
-  <img src="https://psr354.github.io/Portofolio/og-image.png" alt="Azzam Azhim Muntazhar — Cybersecurity Portfolio" width="100%">
-</a>
-
 # Hi, I'm Azzam Azhim Muntazhar 👋
 
 ### Cybersecurity Student · CTF Player · Web Developer
@@ -47,7 +41,7 @@ I actively compete in Capture the Flag events and turn what I learn into practic
 | 🥈 **2nd Place** | Cyber Wave V2 | 2026 |
 | 🏅 **Finalist** | Waskita Manunggal Siber | 2026 |
 | 🏅 **Finalist** | Meta4sec 3.0 CTF | 2026 |
-| 🏅 **Top 10 Regional & National** | Cyber Breaker Season 3 | 2026 |
+| 🏅 **CBC Promotion Day** | Cyber Breaker Season 3 | 2026 |
 | **9th Internationally** | Hackena Ramadan CTF | 2026 |
 | **5th Place** | Astro Competition 7.0 CTF | 2025 |
 | **9th Place / Finalist** | IONIC Cyber Security | 2025 |
