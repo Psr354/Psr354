@@ -27,18 +27,18 @@ I actively compete in Capture the Flag events and turn what I learn into practic
 
 | Area | What I Work With |
 |---|---|
-| **Binary Exploitation** | C, Python, pwntools, pwndbg, memory-corruption analysis |
+| **Binary Exploitation** | C, Python, pwntools, pwndbg, stack, heap |
 | **Reverse Engineering** | Ghidra, static analysis, debugging, program-logic tracing |
 | **Web Security** | Burp Suite, Nuclei, OWASP Top 10, access control, SQLi, XSS |
 | **Digital Forensics** | Wireshark, traffic analysis, artifact analysis, DFIR challenges |
-| **Security Labs** | Kali Linux, Docker, Wazuh, VirtualBox |
+| **Security Labs** | Kali Linux, Docker, Wazuh |
 
 ## Selected Achievements
 
 | Result | Competition | Year |
 |---|---|:---:|
 | 🥇 **1st Place** | FGTE 0 CTF | 2026 |
-| 🥈 **2nd Place** | LKS Cybersecurity — East Jakarta City | 2026 |
+| 🥈 **2nd Place** | LKS Cybersecurity East Jakarta City | 2026 |
 | 🥈 **2nd Place + First Blood** | TryHards CTF | 2026 |
 | 🥈 **2nd Place** | Cyber Wave V2 | 2026 |
 | 🏅 **Finalist** | Waskita Manunggal Siber | 2026 |
@@ -54,7 +54,7 @@ I actively compete in Capture the Flag events and turn what I learn into practic
 
 | Project | Description | Stack |
 |---|---|---|
-| **[rangeops](https://github.com/Psr354/rangeops)** | Docker-based infrastructure for SIEM with Wazuh, B2R, KOTH, and LabCTF environments—built for vulnerable labs and security-event monitoring. | `Docker` `Wazuh` `SIEM` `CTF Infrastructure` |
+| **[rangeops](https://github.com/Psr354/rangeops)** | Docker-based infrastructure for SIEM with Wazuh, B2R, KOTH, and LabCTF environmentsbuilt for vulnerable labs and security-event monitoring. | `Docker` `Wazuh` `SIEM` `CTF Infrastructure` |
 | **[CTF Write-Ups](https://github.com/Psr354/Write-Up-FGTE0)** | Exploitation notes and solutions from CTF challenges across cryptography, reverse engineering, binary exploitation, web security, and forensics. [FGTE 0](https://github.com/Psr354/Write-Up-FGTE0) · [picoCTF](https://github.com/Psr354/Write-Up-picoCTF) | `Crypto` `RE` `PWN` `Web` `Forensics` |
 | **[psr.fm](https://github.com/Psr354/psr.fm)** | A lightweight, self-hosted music streaming server with smart playlists, deep customization, and browser-based access to personal music collections. | `Python` `Flask` `Docker` |
 | **[XI-RPL Calendar](https://github.com/Psr354/kalender-kelas-xi-rpl)** | An interactive class calendar that brings schedules, assignments, and school events into one accessible web application. | `HTML` `CSS` `JavaScript` |
